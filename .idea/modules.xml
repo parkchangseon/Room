@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../test/ReservationManagement-master/ReservationManagement.iml" filepath="$PROJECT_DIR$/../../test/ReservationManagement-master/ReservationManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../test/RoomInfo-master/RoomInfo-master/RoomInfo.iml" filepath="$PROJECT_DIR$/../../test/RoomInfo-master/RoomInfo-master/RoomInfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RoomManagement.iml" filepath="$PROJECT_DIR$/RoomManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../test/gateway-master/gateway-master/boot-camp-gateway.iml" filepath="$PROJECT_DIR$/../../test/gateway-master/gateway-master/boot-camp-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../test/PaymentManagement-master/pay.iml" filepath="$PROJECT_DIR$/../../test/PaymentManagement-master/pay.iml" />
+    </modules>
+  </component>
+</project>

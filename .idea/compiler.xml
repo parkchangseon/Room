@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="RoomManagement" />
+        <module name="RoomInfo" />
+        <module name="boot-camp-gateway" />
+        <module name="pay" />
+        <module name="ReservationManagement" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="boot-camp-gateway" target="1.8" />
+      <module name="pay" target="1.8" />
+      <module name="ReservationManagement" target="1.8" />
+      <module name="RoomInfo" target="1.8" />
+      <module name="RoomManagement" target="1.8" />
+      <module name="객실 관리 시스템" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ReservationManagement" options="-parameters" />
+      <module name="RoomInfo" options="-parameters" />
+      <module name="RoomManagement" options="-parameters" />
+      <module name="boot-camp-gateway" options="-parameters" />
+      <module name="pay" options="-parameters" />
+      <module name="객실 관리 시스템" options="-parameters" />
+    </option>
+  </component>
+</project>

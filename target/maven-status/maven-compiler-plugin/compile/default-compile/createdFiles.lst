@@ -1,0 +1,11 @@
+accommodation\Application.class
+accommodation\Room.class
+accommodation\RoomRepository.class
+accommodation\config\kafka\KafkaProcessor.class
+accommodation\PolicyHandler.class
+accommodation\RoomController.class
+accommodation\AbstractEvent$1.class
+accommodation\CheckedOut.class
+accommodation\RoomConditionChanged.class
+accommodation\Reserved.class
+accommodation\AbstractEvent.class
